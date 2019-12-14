@@ -4,3 +4,6 @@ Steps :
 1. Preprocessing: Grayscalling and resizing
 2.Training
 3.Testing
+
+Used: 
+1.Jupyter Notebook
